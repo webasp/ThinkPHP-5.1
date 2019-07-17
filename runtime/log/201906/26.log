@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2019-06-26T15:13:23+08:00 ] ::1 GET /test/
+[ info ] localhost/test/ [运行时间：0.043755s][吞吐率：22.85req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File

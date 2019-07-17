@@ -1,0 +1,35 @@
+---------------------------------------------------------------
+[ 2019-06-29T13:46:15+08:00 ] ::1 GET /
+[ info ] localhost/ [运行时间：0.094126s][吞吐率：10.62req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:46:15+08:00 ] ::1 GET /favicon.ico
+[ info ] localhost/favicon.ico [运行时间：0.037192s][吞吐率：26.89req/s] [内存消耗：1,083.85kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:46:25+08:00 ] ::1 GET /blog
+[ info ] localhost/blog [运行时间：0.044115s][吞吐率：22.67req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:48:48+08:00 ] ::1 GET /blog
+[ info ] localhost/blog [运行时间：0.049806s][吞吐率：20.08req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:49:51+08:00 ] ::1 GET /
+[ info ] localhost/ [运行时间：0.064718s][吞吐率：15.45req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:55:32+08:00 ] 127.0.0.1 GET /
+[ info ] test/ [运行时间：0.038567s][吞吐率：25.93req/s] [内存消耗：1,083.84kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-06-29T13:55:33+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] test/favicon.ico [运行时间：0.040892s][吞吐率：24.45req/s] [内存消耗：1,083.85kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File

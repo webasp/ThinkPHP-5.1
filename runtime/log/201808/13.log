@@ -1,0 +1,156 @@
+---------------------------------------------------------------
+[ 2018-08-13T11:55:52+08:00 ] 127.0.0.1 GET /
+[ info ] test/ [运行时间：0.027472s][吞吐率：36.40req/s] [内存消耗：1,483.85kb] [文件加载：54]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index/index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'test',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,und;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\xampp\htdocs\test/application/index\view\index-index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:52+08:00 ] 127.0.0.1 GET /static/frozen.css
+[ info ] test/static/frozen.css [运行时间：0.025821s][吞吐率：38.73req/s] [内存消耗：1,110.38kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:52+08:00 ] 127.0.0.1 GET /static/zepto.min.js
+[ info ] test/static/zepto.min.js [运行时间：0.022738s][吞吐率：43.98req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:52+08:00 ] 127.0.0.1 GET /static/style.css
+[ info ] test/static/style.css [运行时间：0.039954s][吞吐率：25.03req/s] [内存消耗：1,110.38kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:52+08:00 ] 127.0.0.1 GET /static/frozen.js
+[ info ] test/static/frozen.js [运行时间：0.027174s][吞吐率：36.80req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:54+08:00 ] 127.0.0.1 GET /
+[ info ] test/ [运行时间：0.021778s][吞吐率：45.92req/s] [内存消耗：1,340.44kb] [文件加载：52]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index/index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'test',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,und;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\xampp\htdocs\test/application/index\view\index-index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:54+08:00 ] 127.0.0.1 GET /static/style.css
+[ info ] test/static/style.css [运行时间：0.031792s][吞吐率：31.45req/s] [内存消耗：1,110.38kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:54+08:00 ] 127.0.0.1 GET /static/frozen.css
+[ info ] test/static/frozen.css [运行时间：0.029602s][吞吐率：33.78req/s] [内存消耗：1,110.38kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:54+08:00 ] 127.0.0.1 GET /static/zepto.min.js
+[ info ] test/static/zepto.min.js [运行时间：0.019780s][吞吐率：50.56req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T11:55:54+08:00 ] 127.0.0.1 GET /static/frozen.js
+[ info ] test/static/frozen.js [运行时间：0.020699s][吞吐率：48.31req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /
+[ info ] test/ [运行时间：0.018725s][吞吐率：53.40req/s] [内存消耗：1,340.44kb] [文件加载：52]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index/index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'test',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,und;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] C:\xampp\htdocs\test/application/index\view\index-index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /static/frozen.js
+[ info ] test/static/frozen.js [运行时间：0.023183s][吞吐率：43.13req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /static/style.css
+[ info ] test/static/style.css [运行时间：0.031555s][吞吐率：31.69req/s] [内存消耗：1,110.38kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /static/zepto.min.js
+[ info ] test/static/zepto.min.js [运行时间：0.032952s][吞吐率：30.35req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /static/frozen.js
+[ info ] test/static/frozen.js [运行时间：0.014890s][吞吐率：67.16req/s] [内存消耗：1,110.32kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-13T14:34:06+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] test/favicon.ico [运行时间：0.019535s][吞吐率：51.19req/s] [内存消耗：1,110.41kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\test\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
